@@ -4,5 +4,9 @@ public class practice{
 		System.out.println("My First change to this file");
 	}
 	
+	public static void printName(String name){
+		System.out.println("Your name is :"+ +name);
+	}
+	
 	
 }
